@@ -1,0 +1,17 @@
+# Core dependencies
+numpy>=1.19.0
+
+# Optional dependencies for examples and notebooks
+matplotlib>=3.3.0
+seaborn>=0.11.0
+jupyter>=1.0.0
+
+# For RL integration (optional)
+gym>=0.18.0
+stable-baselines3>=1.6.0
+
+# Development dependencies (optional)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.8.0
+isort>=5.0.0
